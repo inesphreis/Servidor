@@ -1,0 +1,6 @@
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\bin\TesteServico.dll.config
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\bin\TesteServico.dll
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\bin\TesteServico.pdb
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\obj\Debug\TesteServico.csprojResolveAssemblyReference.cache
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\obj\Debug\TesteServico.dll
+C:\Users\Ines\Desktop\testeIs\Servidor\TesteServico\TesteServico\obj\Debug\TesteServico.pdb
